@@ -1,4 +1,4 @@
-### Hi there 😊
+### Welcome to my Github 😊
 
 <!--
 **graciexia8/graciexia8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi There!
+I am on a journey to combine all my interests into one big amalgamation. As of this moment, I'm trying to learn more about computer graphics, storytelling through comics, and sustainable fashion 👯. 
